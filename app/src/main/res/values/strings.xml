@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SISE</string>
+    <string name="lbl_title">Bienvenido a mi Aplicación</string>
+    <string name="lbl_nombre">Nombre: </string>
+    <string name="lbl_email">Email: </string>
+    <string name="lbl_telefono">Telefono: </string>
+    <string name="lbl_sexo">Sexo: </string>
+    <string name="lbl_masculino">Masculino: </string>
+    <string name="lbl_femenino">Femenino: </string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_enviar">Enviar</string>
+</resources>
